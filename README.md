@@ -1,7 +1,9 @@
 SAM
 ===
 
-Software Automatic Mouth - Tiny Speech Synthesizer 
+Software Automatic Mouth - Tiny Speech Synthesizer
+
+**Note**: My fork has SDL turned off by default in `Makefile` so that it can be compiled and executed in a colab environment
 
 
 What is SAM?
